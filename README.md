@@ -6,6 +6,7 @@ This is a project template focus on [ESP32 T-Display-S2](https://www.espressif.c
 
 The following tools are in use for an automatic build [GitHub Actions](https://github.com/features/actions) and [platformio](https://platformio.org/).
 
+<img src="doc/sceenshot.jpg" alt="LilyGo T-Display S3 AMOLED" />
 
 ## Requirements
 
@@ -15,7 +16,7 @@ The following tools are in use for an automatic build [GitHub Actions](https://g
 
 ## Get Started
 
-<img src="https://github.com/mcuw/ESP32-ghbuild-tdisplays3-amoled/blob/main/doc/create-new-project-with-template.png" />
+<img src="https://github.com/mcuw/ESP32-ghbuild-tdisplays3-amoled/blob/main/doc/create-new-project-with-template.png" alt="Create new repository with github templates" />
 
 1. Login to github
 
@@ -59,11 +60,11 @@ https://mcuw.github.io/ESPConnect/
 Variant B - Visual Studio Code
 1. Select a board in Visual Studio Code
 
-<img src="https://github.com/mcuw/ESP32-ghbuild-tdisplays3-amoled/blob/main/doc/choose-board-in-vsc.png" />
+<img src="https://github.com/mcuw/ESP32-ghbuild-tdisplays3-amoled/blob/main/doc/choose-board-in-vsc.png" alt="choose a board in Visual Studio Code" />
 
 2. Flash your board
 
-<img src="https://github.com/mcuw/ESP32-ghbuild-tdisplays3-amoled/blob/main/doc/flash-with-vsc.png" />
+<img src="https://github.com/mcuw/ESP32-ghbuild-tdisplays3-amoled/blob/main/doc/flash-with-vsc.png" alt="flash a board in Visual Studio Code" />
 
 
 ## Supported boards
