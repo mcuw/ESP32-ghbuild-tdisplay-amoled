@@ -1,4 +1,4 @@
-# ESP32 T-Display S2/S3 AMOLED project template
+# ESP32 T-Display-S2/-S3 AMOLED project template
 
 ## Description
 
