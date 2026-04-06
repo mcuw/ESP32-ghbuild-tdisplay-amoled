@@ -13,6 +13,14 @@ The following tools are in use for an automatic build [GitHub Actions](https://g
 - [Visual Source Code](https://code.visualstudio.com/) IDE
 - [platformio extension](https://platformio.org/)
 
+## Supported boards
+
+- ESP32 S2 T-Display
+- ESP32 S3 with dual-core processor
+  - [LilyGo T-Display S3](https://s.click.aliexpress.com/e/_DBmOMkn) (aliexpress affiliate link)
+  - [LilyGo T-Display-S3 AMOLED](https://s.click.aliexpress.com/e/_DmboYpZ) (aliexpress affiliate link)
+  - [LilyGo T-Display-S3 Touch](https://s.click.aliexpress.com/e/_DCBgPlV) (aliexpress affiliate link)
+  - [LilyGo T-Display S3 Long](https://s.click.aliexpress.com/e/_Dl6UVMx) (aliexpress affiliate link)
 
 ## Get Started
 
@@ -65,16 +73,6 @@ Variant B - Visual Studio Code
 2. Flash your board
 
 <img src="https://github.com/mcuw/ESP32-ghbuild-tdisplays3-amoled/blob/main/doc/flash-with-vsc.png" alt="flash a board in Visual Studio Code" />
-
-
-## Supported boards
-
-- ESP32 S2 T-Display
-- ESP32 S3 with dual-core processor
-  - [LilyGo T-Display S3](https://s.click.aliexpress.com/e/_DBmOMkn) (aliexpress affiliate link)
-  - [LilyGo T-Display-S3 AMOLED](https://s.click.aliexpress.com/e/_DmboYpZ) (aliexpress affiliate link)
-  - [LilyGo T-Display-S3 Touch](https://s.click.aliexpress.com/e/_DCBgPlV) (aliexpress affiliate link)
-  - [LilyGo T-Display S3 Long](https://s.click.aliexpress.com/e/_Dl6UVMx) (aliexpress affiliate link)
 
 
 ## PlatformIO
